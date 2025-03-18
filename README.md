@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi there! 👋
 
-I'm a senior scientist at the Research Center Pharmaceutical Engineering (RCPE) in Graz, Austria working on resolving breakup of sub-Kolmogorov droplets in turbulent flows, along with other (computational) fluid dynamics problems. 
+I'm a senior scientist at the Research Center Pharmaceutical Engineering (RCPE) in Graz, Austria, working on resolving breakup of sub-Kolmogorov droplets in turbulent flows, along with other (computational) fluid dynamics problems. 
 
 I received my PhD in May 2023 under the supervision of Professor Krishnan Mahesh at the University of Minnesota. The focus of my research is the insight that can be extracted from direct numerical simulation (DNS) and large-eddy simulation (LES) of highly complex turbulent flows, including complex turbulent boundary layers and jets in crossflow. 
 
@@ -26,7 +26,7 @@ I received my PhD in May 2023 under the supervision of Professor Krishnan Mahesh
 * Fluid dynamics
 * Turbulence
 * High performance computing
-* Direct numerical simulation (DNS) and large-eddy simulalation (LES)
+* Direct numerical simulation (DNS) and large-eddy simulation (LES)
 * Adaptive mesh refinement algorithms
 * Heterogeneous (GPU) computing
 * Multiphase flows
