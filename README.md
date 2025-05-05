@@ -39,4 +39,4 @@ I received my PhD in May 2023 under the supervision of Professor Krishnan Mahesh
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nick-t-morse)
 [![researchgate](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/50px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/profile/Nicholas_Morse3)
 
-Further details can be found on [my personal website](https://morse129.github.io/).
+Further details can be found on [my personal website](https://nick-morse.github.io/).
