@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi there! 👋
 
-I'm a postdoc at the KTH Royal Institute of Technology in Stockholm, Sweden 🇸🇪, studying curvature and rotation effects on transitional and turbulent flows 🌪️🌀 
+I'm a postdoc at the KTH Royal Institute of Technology in Stockholm, Sweden 🇸🇪, studying curvature and rotation effects on transitional and turbulent flows. 🌪️🌀 
 
 Previously, I was a Senior Scientist at the Research Center Pharmaceutical Engineering (RCPE) in Graz, Austria working on resolving breakup of sub-Kolmogorov-scale droplets.
 
